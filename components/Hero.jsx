@@ -15,8 +15,8 @@ export function Hero() {
             Join our local network of volunteers and supporters creating positive change in our community through food assistance and support.
           </p>
           <div className="mt-10 flex justify-center gap-x-6">
-            <a href="#donate" className="rounded-full bg-orange-600 px-8 py-3 text-base font-semibold text-white shadow-sm hover:bg-orange-500 transition-colors duration-200">
-              Support Locally
+            <a href="/product" className="rounded-full bg-orange-600 px-8 py-3 text-base font-semibold text-white shadow-sm hover:bg-orange-500 transition-colors duration-200">
+              Get Started
             </a>
             <a href="#volunteer" className="rounded-full bg-white px-8 py-3 text-base font-semibold text-orange-600 shadow-sm ring-1 ring-inset ring-orange-200 hover:bg-orange-50 transition-colors duration-200">
               Volunteer Today

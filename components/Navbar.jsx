@@ -19,6 +19,7 @@ export function Navbar() {
             <a href="#donate" className="inline-flex items-center rounded-full bg-orange-600 px-6 py-2 text-sm font-semibold text-white shadow-sm hover:bg-orange-500 transition-colors duration-200">
               Donate
             </a>
+            
           </div>
         </div>
       </div>

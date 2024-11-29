@@ -1,6 +1,5 @@
 import localFont from "next/font/local";
-import "./globals.css";
-
+import "./globals.css";  // ./ means the current folder ../  means outside this folder
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
   variable: "--font-geist-sans",
